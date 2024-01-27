@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=350&section=header&text=Seoyoung%20(Amy)%20Github&fontColor=ffffff&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=350&section=header&text=Seoyoung's%20Github&fontColor=ffffff&fontSize=55)
 ## 🌱 I’m currently learning
 ## 🔭 I’m currently working on
 
