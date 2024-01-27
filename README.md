@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=350&section=header&text=Seoyoung%20(Amy)%20Github&fontColor=ffffff&fontSize=55)
+## 🌱 I’m currently learning
+## 🔭 I’m currently working on
 
 <!--
 **seoyoung16/seoyoung16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
