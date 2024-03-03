@@ -1,4 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=350&section=header&text=Seoyoung's%20Github&fontColor=ffffff&fontSize=55)
+<h3 align="center">Senior undergraduate student at University of Tennessee, Knoxville</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/seoyoungan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seoyoung (Amy) An" height="30" width="40" /></a>
+<a href="https://instagram.com/seoyoung.an1116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seoyoung.an1116" height="30" width="40" /></a>
+</p>
 
 
 <!--
