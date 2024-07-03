@@ -8,9 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seoyoung16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 <div align="right">
-  <img src="![시드](https://github.com/seoyoung16/seoyoung16/assets/91634833/befd76e9-b324-4b30-82f1-a73533d7b32c)" />
+  <img src="![시드](https://github.com/seoyoung16/seoyoung16/assets/91634833/befd76e9-b324-4b30-82f1-a73533d7b32c)" height="150" />
 
 </div>
 ###
