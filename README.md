@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=350&section=header&text=Seoyoung's%20Github&fontColor=ffffff&fontSize=55)
-<h3 align="center">Senior undergraduate student at University of Tennessee, Knoxville</h3>
+<h3 align="center">Graduate Research Assistant at University of Tennessee, Knoxville</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
