@@ -10,8 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="![시드](https://github.com/seoyoung16/seoyoung16/assets/91634833/d10673e2-d1dd-48a4-a9b2-0bae98ba0115)"
-  />
+<img align="right" height="150" src="![시드](https://github.com/seoyoung16/seoyoung16/assets/91634833/d10673e2-d1dd-48a4-a9b2-0bae98ba0115)">
 
 ###
 
