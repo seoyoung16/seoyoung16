@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=350&section=header&text=Seoyoung's%20Github&fontColor=ffffff&fontSize=55)
-<h3 align="center">Graduate Research Assistant at University of Tennessee, Knoxville</h3>
-<h2 align="left">Hi 👋! My name is Amy, a graduate research assistant at University of Tennessee, Knoxville</h2>
+<h2 align="left">Hi 👋! My name is Amy, a graduate research assistant at the University of Tennessee, Knoxville</h2>
 
 ###
 
@@ -11,7 +10,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="![시드](https://github.com/seoyoung16/seoyoung16/assets/91634833/d10673e2-d1dd-48a4-a9b2-0bae98ba0115)"
+  />
 
 ###
 
