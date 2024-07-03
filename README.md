@@ -9,7 +9,7 @@
 </div>
 
 <div align="right">
-  <img src="![시드](https://github.com/seoyoung16/seoyoung16/assets/91634833/befd76e9-b324-4b30-82f1-a73533d7b32c)" height="150" />
+  <img src="https://github.com/seoyoung16/seoyoung16/assets/91634833/befd76e9-b324-4b30-82f1-a73533d7b32c" height="150" />
 
 </div>
 ###
