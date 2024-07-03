@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=350&section=header&text=Seoyoung's%20Github&fontColor=ffffff&fontSize=55)
-<h2 align="left">Hi 👋! My name is Amy, a graduate research assistant at the University of Tennessee, Knoxville</h2>
+<h2 align="left">Hi👋 My name is Amy, a graduate research assistant at the University of Tennessee, Knoxville</h2>
 
 ###
 
@@ -8,11 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seoyoung16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="right">
+<div align="left">
   <img src="https://github.com/seoyoung16/seoyoung16/assets/91634833/befd76e9-b324-4b30-82f1-a73533d7b32c" height="150" />
-
 </div>
-###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/seoyoungan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seoyoung (Amy) An" height="30" width="40" /></a>
