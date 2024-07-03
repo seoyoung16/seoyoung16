@@ -9,11 +9,10 @@
 </div>
 
 ###
+<div align="right">
+  <img src="![시드](https://github.com/seoyoung16/seoyoung16/assets/91634833/befd76e9-b324-4b30-82f1-a73533d7b32c)" />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/seoyoung16/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
